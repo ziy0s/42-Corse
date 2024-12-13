@@ -1,0 +1,14 @@
+
+definetion      decleretion
+for head file ".h" file 
+
+=========================
+
+the erroe exist in redecleretion
+
+
+
+stack frame where function stored in memory 
+
+dungling pointer
+
